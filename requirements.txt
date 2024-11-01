@@ -1,0 +1,10 @@
+requests
+pandas
+matplotlib
+numpy
+scikit-learn
+ipywidgets
+ipykernel
+tqdm
+openpyxl
+openai
