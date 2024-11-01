@@ -54,3 +54,7 @@ Windows
 py -m pip install -r requirements.txt
 ```
 
+create a file secret.py and put your api-key inside
+```py
+api_key=<YOUR_KEY>
+```
